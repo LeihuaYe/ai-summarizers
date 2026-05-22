@@ -9,10 +9,22 @@ Covers new model releases, LLM architecture developments, AI lab announcements, 
 
 Browse digests in [`digests/`](digests/).
 
-| Issue | Topics |
+| Issue | Headline |
 |-------|--------|
-| [2026-04-06](digests/ai-weekly-2026-04-06.md) | Meta Llama 4, Microsoft MAI models, Gemma 4, Safety Under Scaffolding, UK AISI sandbagging study |
-| [2026-03-24](digests/ai-weekly-2026-03-24.md) | Xiaomi MiMo-V2-Pro, Claude Code Channels, NVIDIA GR00T N1.7, AuditBench, AdaRubric |
+| [2026-05-20](digests/ai-weekly-2026-05-20.md) | Gemini 3.5 Flash at Google I/O — 4× speed, $1.50/$9 per 1M tokens, 1M ctx |
+| [2026-05-18](digests/ai_weekly_2026-05-18.md) | OpenAI launches GPT-5.5-Cyber for vetted security teams |
+| [2026-05-11](digests/ai-weekly-2026-05-11.md) | Anthropic ships 10 financial-services agent templates |
+| [2026-05-04](digests/ai_weekly_2026-05-04.md) | AISI quantifies Claude Mythos's unprecedented cybersecurity reach |
+| [2026-04-27](digests/ai-weekly-2026-04-27.md) | OpenAI GPT-5.5 — improved coding and research capabilities |
+| [2026-04-20](digests/ai-weekly-2026-04-20.md) | Claude Opus 4.7 GA — Anthropic's most capable GA model |
+| [2026-04-13](digests/ai-weekly-2026-04-13.md) | PrismML 1-Bit Bonsai LLM family |
+| [2026-04-06](digests/ai-weekly-2026-04-06.md) | Meta Llama 4, Microsoft MAI, Gemma 4, AISI sandbagging study |
+| [2026-03-24](digests/ai-weekly-2026-03-24.md) | Xiaomi MiMo-V2-Pro, Claude Code Channels, NVIDIA GR00T N1.7 |
+
+**Note:** Files in `digests/` use two naming conventions —
+`ai-weekly-YYYY-MM-DD.md` (current convention) and the older
+`ai_weekly_YYYY-MM-DD.md` (pre-2026-05-11). Both are real digests;
+the hyphen / underscore difference is historical only.
 
 ## Structure
 
