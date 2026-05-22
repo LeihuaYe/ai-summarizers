@@ -139,7 +139,7 @@ def main():
     prompt = build_prompt(today, all_results)
 
     response = client.messages.create(
-        model="claude-opus-4-6",
+        model="claude-opus-4-7",
         max_tokens=2048,
         messages=[{"role": "user", "content": prompt}],
     )
